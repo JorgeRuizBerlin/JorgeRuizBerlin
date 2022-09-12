@@ -2,7 +2,7 @@
 - 👀 I’m interested in complexity and new technologies
 - 🌱 I’m currently learning artificial intelligence
 - 💞️ I’m looking to collaborate on blockchain and cryptocurrencies
-- 📫 How to reach me? jorge.ruiz@bccn-berlin.de
+- 📫 How to reach me? jorge.ruiz@code.berlin
 
 <!---
 JorgeRuizBerlin/JorgeRuizBerlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
